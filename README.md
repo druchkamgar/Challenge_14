@@ -12,4 +12,4 @@ We next adjusted the short SMA. First we increased the short SMA from 4 days to 
 
 The optimal results occured when we used a three month training window and a short SMA of 2 days. See plot below:
 
-![/Users/Dariush/Desktop/Columbia_Challenges/Challenge_14/Screen Shot 2021-09-30 at 11.02.05 AM](/Users/Dariush/Desktop/Columbia_Challenges/Challenge_14/Screen Shot 2021-09-30 at 11.02.05 AM.png)
+![markdown-image](/Users/Dariush/Desktop/Columbia_Challenges/Challenge_14/Screen Shot 2021-09-30 at 11.02.05 AM.png)
